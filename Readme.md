@@ -1,4 +1,4 @@
-There is Ipynb file that you can unzip ml_proj_arvind_shourab .
+There is Ipynb file that you can unzip ml_proj_arvind_shorabh.
 Run the Project.ipynb
 
 If you want to run in intellij there is MachineLearningProject.zip that has a maven
@@ -11,5 +11,5 @@ The others are numpy,sklearn,and scipy package.
 
 We are using python 2.7
 
-- Arvind Shekar -A20328640
-- Shourab
+- Arvind Shekar
+- Shorabh Dhandharia
